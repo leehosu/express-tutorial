@@ -14,3 +14,5 @@
 #### 2. [node.js의 express 프레임워크 이용해보기 - ejs 사용](https://github.com/leehosu/express-tutorial/blob/master/document/ch02.md)
 
 #### 3. [node.js의 express 프레임워크 이용해보기 - RESTful API 사용](https://github.com/leehosu/express-tutorial/blob/master/document/ch03.md)
+
+#### 4. [node.js의 express 프레임워크 이용해보기 - express-session 사용](https://github.com/leehosu/express-tutorial/blob/master/document/ch04.md)
